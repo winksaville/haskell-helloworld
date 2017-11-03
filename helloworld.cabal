@@ -2,7 +2,7 @@ name:                helloworld
 version:             0.1.0.0
 -- synopsis:
 -- description:
-homepage:            https://github.com/winksaville/helloworld#readme
+homepage:            https://github.com/winksaville/haskell-helloworld#readme
 license:             BSD3
 license-file:        LICENSE
 author:              Wink Saville
@@ -38,4 +38,4 @@ test-suite helloworld-test
 
 source-repository head
   type:     git
-  location: https://github.com/winksaville/helloworld
+  location: https://github.com/winksaville/haskell-helloworld
